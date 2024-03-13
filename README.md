@@ -2,4 +2,5 @@
 # распараллеливание суммы
 # рекурсия mergeSort
 # сравнение с многопоточности и без нее
-# ![image](https://github.com/leha123456789/pracric_6/assets/19330391/2b25abeb-d5ee-4cf7-8598-4153529494b4)
+# ![image](https://github.com/leha123456789/pracric_6/assets/19330391/3720c7f1-ff0d-4e2e-a53d-503127a7bc10)
+
